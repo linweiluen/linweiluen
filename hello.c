@@ -1,4 +1,4 @@
 void main(){
-	print("bug1: computer");
+	print("still alice");
 
 }
