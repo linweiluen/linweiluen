@@ -1,4 +1,4 @@
 void main(){
-	print("alzheimer");
+	print("bug1: computer");
 
 }
